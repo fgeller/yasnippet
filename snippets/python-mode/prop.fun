@@ -1,3 +1,5 @@
+# -*- mode:snippet; coding: utf-8; tab-width:2 -*-
+# key: prop.fun
 # contributor: Mads D. Kristensen <madsdk@gmail.com>
 # name: prop
 # desc: property with fget/fset/fdel

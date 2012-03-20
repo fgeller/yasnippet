@@ -1,3 +1,5 @@
+# -*- mode:snippet; coding: utf-8; tab-width:2 -*-
+# key: while
 #name : while ... : ...
 # --
 while ${condition}:

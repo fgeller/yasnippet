@@ -1,3 +1,5 @@
+# -*- mode:snippet; coding: utf-8; tab-width:2 -*-
+# key: try.exceptelse
 # This was cloned from a TextMate bundle for yasnippet.
 # --
 try:
