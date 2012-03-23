@@ -4,5 +4,7 @@
 # contributor: Felix Geller <fgeller@gmail.com>
 # --
 $1: function ($2) {
+		var me = this;
+
     $0
-}
+},
